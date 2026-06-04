@@ -53,3 +53,4 @@ The frontend application will compile and start on **http://localhost:3000**.
    - **Click** on existing pins to view the chat history and add replies.
    - **Drag** your pins to reposition them (they will automatically snap to the image constraints).
 5. Turn Comment Mode OFF for a clean, read-only viewing experience.
+6. Here is a link to the sample usage video: https://drive.google.com/file/d/1mP1a2K1ua2ghDtxiBJ10Xkh8PJdlm8yf/view?usp=sharing
